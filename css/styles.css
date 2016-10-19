@@ -1,0 +1,26 @@
+body {
+  background-color: deepskyblue;
+}
+
+br {
+  line-height: 40px;
+}
+
+.myJumbotron {
+  text-align: center;
+}
+
+.letter {
+  display: none;
+  border: black 2px solid;
+  font-size: 20px;
+  font-family: times;
+  background-color: white;
+  height: 1200px;
+  padding: 60px 100px 60px 100px;
+  text-align: justify;
+  background-image: url("http://www.tiptheme.com/wp-content/uploads/2015/07/paper-background-7.jpg");
+}
+h3 {
+  font-weight: bolder;
+}
